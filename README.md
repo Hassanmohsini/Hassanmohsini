@@ -5,7 +5,7 @@
 
 ### MyStack - Languages & Tools
 
-![VSCode](https://img.shields.io/badge/Editor-VSCode-blue) ![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS3](https://img.shields.io/badge/Language-CSS-blue) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![React Native](https://img.shields.io/badge/Framework-React-blue) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green) ![jQuery](https://img.shields.io/badge/Runtime-jQuery-dark-blue)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue) ![HTML](https://img.shields.io/badge/Language-HTML-orange) ![CSS3](https://img.shields.io/badge/Language-CSS-blue) ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) ![React](https://img.shields.io/badge/Framework-React-blue) ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)
 
 
 
