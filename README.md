@@ -3,14 +3,14 @@
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).<br>You can connect with me <a href="https://www.linkedin.com/in/abdul-hassan" style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px; text-decoration: none;">in LinkedIn</a>.
 
-### # My Web Development Tools
+### My Web Development Tools
 
 Here are some of the web development tools I use:
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/js-square.svg" alt="JavaScript" width="80" height="80">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/html5.svg" alt="HTML" width="80" height="80">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/css3-alt.svg" alt="CSS" width="80" height="80">
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/react.svg" alt="React" width="80" height="80">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="80" height="80">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML" width="80" height="80">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS" width="80" height="80">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="80" height="80">
 
 
 
