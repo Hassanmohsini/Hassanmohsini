@@ -4,9 +4,8 @@
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
 # Welcome to My GitHub Profile
 
-<div style="background-color: #e0f7fa; padding: 15px; border-radius: 5px;">
-    You can connect with me [in LinkedIn](https://www.linkedin.com/in/abdul-hassan).
-</div>
+You can connect with me <span style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px;">[in LinkedIn](https://www.linkedin.com/in/abdul-hassan)</span>.
+
 
 
 
