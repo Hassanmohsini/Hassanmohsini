@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
 # Welcome to My GitHub Profile
-```javaScript
+<div style="background-color: green; color: black; padding: 3px 5px;">[IN LINKEDIN](https://www.linkedin.com/in/abdul-hassan)</div>
 You can connect with me <span style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px;">[in LinkedIn](https://www.linkedin.com/in/abdul-hassan)</span>.
 
 ###  Get to know more about me
