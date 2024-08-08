@@ -6,10 +6,6 @@
 
 You can connect with me <span style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px;">[in LinkedIn](https://www.linkedin.com/in/abdul-hassan)</span>.
 
-
-
-
-
 ###  Get to know more about me
 ```javaScript
 const Abdul Hassan = {
