@@ -4,6 +4,7 @@
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
 -
 ###  Get to know more about me
+```javaScript
 const Abdul Hassan = {
     pronouns: "He" | "Him",
     technologies: ["Javascript", "HTML", "CSS", "SASS", "React", "Vite", "Express"],
