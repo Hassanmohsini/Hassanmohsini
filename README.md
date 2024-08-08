@@ -10,7 +10,7 @@ Here are some of the web development tools I use:
 <img src="https://example.com/icons/javascript.png" alt="JavaScript" width="80" height="80">
 <img src="https://example.com/icons/html.png" alt="HTML" width="80" height="80">
 <img src="https://example.com/icons/css.png" alt="CSS" width="80" height="80">
-<img src="npm i --save @fortawesome/react-fontawesome@latest" alt="React" width="80" height="80">
+<img src="<a href="https://www.flaticon.com/free-icons/react" title="react icons">React icons created by Freepik - Flaticon</a>" alt="React" width="80" height="80">
 
 
 
