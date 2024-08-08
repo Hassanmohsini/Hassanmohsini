@@ -10,7 +10,7 @@ Here are some of the web development tools I use:
 <img src="https://example.com/icons/javascript.png" alt="JavaScript" width="80" height="80">
 <img src="https://example.com/icons/html.png" alt="HTML" width="80" height="80">
 <img src="https://example.com/icons/css.png" alt="CSS" width="80" height="80">
-<img src="https://example.com/icons/react.png" alt="React" width="80" height="80">
+<img src="https://example.com/icons/react.png" alt="npm i --save @fortawesome/fontawesome-svg-core" width="80" height="80">
 
 
 
