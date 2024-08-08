@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Abdul Hassan Mohsini. 
   
 - 👀 I’m interested in coding and web development.
-- 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).<br>You can connect with me <a href="https://www.linkedin.com/in/abdul-hassan" style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px; text-decoration: none;">in LinkedIn</a>.
-- You can connect with me [![LinkedIn](https://img.shields.io/badge/Connect_in-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hassan)
+- 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).<br>You can connect with me [![LinkedIn](https://img.shields.io/badge/Connect_in-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hassan)
 
 
 ### MyStack - Languages & Tools
