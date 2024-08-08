@@ -15,3 +15,12 @@ const Abdul Hassan = {
     currently: ["searching for full stack web development internship"]
     funQuote: "When I am coding I feel confident and passionate because I know, today I am better than yesterday."
 };
+
+### My Web Development Tools
+
+Here are some of the web development tools I use:
+
+<img src="https://example.com/icons/javascript.png" alt="JavaScript" width="80" height="80">
+<img src="https://example.com/icons/html.png" alt="HTML" width="80" height="80">
+<img src="https://example.com/icons/css.png" alt="CSS" width="80" height="80">
+<img src="https://example.com/icons/react.png" alt="React" width="80" height="80">
