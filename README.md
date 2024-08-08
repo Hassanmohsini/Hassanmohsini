@@ -3,16 +3,9 @@
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).<br>You can connect with me <a href="https://www.linkedin.com/in/abdul-hassan" style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px; text-decoration: none;">in LinkedIn</a>.
 
-## MyStack - Languages & Tools
+### MyStack - Languages & Tools
 
-- ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)
-- ![HTML](https://img.shields.io/badge/Language-HTML-orange)
-- ![CSS](https://img.shields.io/badge/Language-CSS-blue)
-- ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-- ![React](https://img.shields.io/badge/Framework-React-blue)
-- ![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)
-
-
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue)![HTML](https://img.shields.io/badge/Language-HTML-orange)![CSS](https://img.shields.io/badge/Language-CSS-blue)![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)![React](https://img.shields.io/badge/Framework-React-blue)![Node.js](https://img.shields.io/badge/Runtime-Node.js-green)
 
 
 
