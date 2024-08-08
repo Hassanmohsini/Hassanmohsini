@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Abdul Hassan Mohsini. 
-# 👋 Hi, I’m Pila Gonzalez, [<span style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px;">LinkedIn</span>](https://www.linkedin.com/in/pila-gonzalez)
+# 👋 Hi, I’m Abdul Hassan Mohsini. ![in LINKEDIN]([https://img.shields.io/badge/Editor-VSCode-blue](https://www.linkedin.com/in/abdul-hassan))
   
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).<br>You can connect with me <a href="https://www.linkedin.com/in/abdul-hassan" style="background-color: gray; color: white; padding: 3px 5px; border-radius: 3px; text-decoration: none;">in LinkedIn</a>.
