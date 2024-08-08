@@ -2,9 +2,12 @@
   
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
-  <div style="background-color: green; padding: 15px; border-radius: 5px;">
-    [in LinkedIn](https://www.linkedin.com/in/abdul-hassan).
+# Welcome to My GitHub Profile
+
+<div style="background-color: #e0f7fa; padding: 15px; border-radius: 5px;">
+    You can connect with me [in LinkedIn](https://www.linkedin.com/in/abdul-hassan).
 </div>
+
 
 
 
