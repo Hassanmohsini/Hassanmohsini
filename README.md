@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Abdul Hassan Mohsini. 
   
 - 👀 I’m interested in coding and web development.
-- 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
+- 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI). [in LinkedIn](www.linkedin.com/in/abdul-hassan-mohsini-1a234b100).
+
 
 ###  Get to know more about me
 ```javaScript
