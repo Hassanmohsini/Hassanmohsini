@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdul Hassan Mohsini. 
-## Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/abdul-hassan-mohsini-1a234b100)
+## Connect with Me 👉 [LinkedIn Profile](https://www.linkedin.com/in/abdul-hassan-mohsini-1a234b100)
+
 
   
 - 👀 I’m interested in coding and web development.
