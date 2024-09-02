@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Abdul Hassan Mohsini. [![LinkedIn](https://img.shields.io/badge/Connect_in-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-hassan-mohsini-1a234b100)
+# 👋 Hi, I’m Abdul Hassan Mohsini. 
+## Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/abdul-hassan-mohsini-1a234b100)
+
   
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
