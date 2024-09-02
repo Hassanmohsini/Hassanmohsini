@@ -2,7 +2,8 @@
   
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
-- You can download my Resume here.[https://drive.google.com/file/d/1bO-UPeEzt4HrurXC5xmoBbO6jThELOoL/view?usp=sharing]
+- :point_right: [📄 Download My Resume](https://drive.google.com/uc?export=download&id=1bO-UPeEzt4HrurXC5xmoBbO6jThELOoL)
+
 
 
 ### MyStack - Languages & Tools
