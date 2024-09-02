@@ -5,7 +5,6 @@
   
 - 👀 I’m interested in coding and web development.
 - 🌱 I recently finished a one-year web development program at the Digital Career Institute (DCI).
-- Got it! Here’s the updated link with the pointing hand:
 - :point_right: [📄 Download My Resume](https://drive.google.com/uc?export=download&id=1JpZoV9uDASNfLhPbGZ0hs5u1YRHcQUEy)
 
 
